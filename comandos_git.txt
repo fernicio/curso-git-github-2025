@@ -15,5 +15,9 @@ git log		-> mostra todo o histório de commit
 8. git status
 9. volta para o passo 3
 
+## NOVO FLUXO DE TRABALHO
+## PARA TESTAR O COMANDO GIT DIFF
+
+
 
 
