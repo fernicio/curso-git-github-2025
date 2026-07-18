@@ -1,1 +1,5 @@
 # Esse arquivo mostra comandos secundários do git
+
+- Primeiro comando
+
+- Segundo comando
