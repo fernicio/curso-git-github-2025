@@ -13,5 +13,9 @@ Visual Studio Code.
 Confira tudoo que temos no
 nosso YouTube. É gratis!
 
+----
 
+Pessoas participantes:
+
+- Teo
  
